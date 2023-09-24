@@ -37,7 +37,7 @@ Matplotlib: A plotting library for creating visualizations.
 Seaborn: A data visualization library built on top of Matplotlib.
 Make sure these libraries are installed in your Python environment before running the project.
 
-# Steps of the Project:
+# Steps of the Project
 
 Data Loading: Load the industrial copper dataset into the code using pandas library. Perform initial data exploration to understand the structure and content of the dataset.
 
