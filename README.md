@@ -9,7 +9,7 @@ The Industrial Copper Modeling project focuses on predicting the selling price a
 # Dataset
 The dataset used for this analysis contains information about industrial copper transactions, including variables such as selling price, quantities, and status (won or lost). It provides a comprehensive view of the copper market and factors that influence the outcomes of transactions.
 
-Project Learnings
+# Project Learnings
 The main learnings from this project are as follows:
 
 Exploring Skewness and Outliers: Analyze the distribution of variables in the dataset and identify skewness and outliers. This step helps in understanding the data quality and potential issues that may affect the model performance.
